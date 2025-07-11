@@ -1,1 +1,2 @@
-# Simulation-of-Bidirectional-Battery-Charger-Circuit-using-Buck-Boost-Converter-in-Simulink
+This project presents a bi-directional battery charger circuit
+controlled by a PI controller. The DC to DC converters play a key role in solar power plants, battery charging stations, and electrical vehicles. This bi-directional DC to DC converter allows for both charging and discharging of batteries. It functions as a boost converter during discharging and as a buck converter when charging. The bi-directional converter is controlled by a closed-loop PI controller. The simulation results of this paper are verified using Simulink software during both charging and discharging modes, and the results reached the reference values.
